@@ -11,5 +11,4 @@
 
     <style name="Theme.SplashActivity" parent="Base.Theme.SplashActivity" />
 
-    <color name="blue">#00BCD4</color>
 </resources>
